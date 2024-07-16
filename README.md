@@ -1,9 +1,10 @@
 # Smart Telecom: Customer Satisfaction and Call Drop Rate Analysis for Indian Operators
 
 
-![Customer](Plots/overall%20average%20customer%20rating%20for%20each%20opearator.png)
+![Customers](Plots/Average%20customer%20ratings%20for%20call%20quality%20for%20different%20states%20from%202021%20till%202024.png)
 
-![Customer Satisfaction](Plots/Average%20customer%20ratings%20for%20call%20quality%20for%20different%20states%20from%202021%20till%202024.png)
+
+![Customer Satisfaction](Plots/Overall%20call%20drop%20percentage%20for%20each%20operator.png)
 
 
 ## Summary of Insights
