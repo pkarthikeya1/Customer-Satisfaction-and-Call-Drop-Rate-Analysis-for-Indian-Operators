@@ -10,7 +10,10 @@
 ### Average Rating:
 - Overall highest average customer rating is achieved by VI with 4.3/5 and the lowest average customer rating goes to MTNL with 2.51/5.
 
-![Customer Satisfaction](Plots/overall%20average%20customer%20rating%20for%20each%20operator.png)
+![Customer](Plots/overall%20average%20customer%20rating%20for%20each%20opearator.png)
+
+
+
 
 - Statewise, Chhattisgarh possesses the highest average customer rating with 4.86/5, followed by Madhya Pradesh with 4.72/5 & Karnataka with 4.24/5. It is important to note that all other states have less than 4, at least 18% less than the highest average rating.
 
