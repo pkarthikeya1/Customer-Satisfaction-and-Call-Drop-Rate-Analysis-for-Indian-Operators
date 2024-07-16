@@ -20,5 +20,5 @@
 
 
 
-- Statewise, Chhattisgarh possesses the highest average customer rating with 4.86/5, followed by Madhya Pradesh with 4.72/5 & Karnataka with 4.24/5. It is important to note that all other states have less than 4, at least 18% less than the highest average rating.
+- Statewise, Chhattisgarh possess the highest average customer rating with 4.86/5, followed by Madhya Pradesh with 4.72/5 & Karnataka with 4.24/5. It is important to note that all other states have less than 4, at least 18% less than the highest average rating.
 
