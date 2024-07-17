@@ -26,7 +26,7 @@
 ![Customer Satisfaction](Plots/Overall%20call%20drop%20percentage%20for%20each%20operator.png)
 
 
-- ###### Caveat : For the above insights, we have considered only the states which have atleast 1000 samples overall, there are some states which have 5 star rating overall but with 10 samples, those were discarded from the analysis.
+- #### Caveat : For the above insights, we have considered only the states which have atleast 1000 samples overall, there are some states which have 5 star rating overall but with 10 samples, those were discarded from the analysis.
 
 
 
