@@ -5,38 +5,39 @@
 
 ## Summary of Insights from Exploratory Analysis
 
-- ### Call Drop Rate:
+### Call Drop Rate:
 
 
-    #### Overall
-        Call drop rates decreased from 2021 to 2023. MTNL had the highest rate (26.76%), while VI had the lowest (6.68%).
+#### Overall
+Call drop rates decreased from 2021 to 2023. MTNL had the highest rate (26.76%), while VI had the lowest (6.68%).
 
-    #### RJio 
-         RJio's call drop rates peaked in August 2021 (37.66%) and were lowest in November 2023 (1.21%). The operator consistently experienced higher drop rates in Q2 and Q3 over the three-year period.
+#### RJio 
+1. RJio's call drop rates peaked in August 2021 (37.66%) and were lowest in November 2023 (1.21%). The operator consistently experienced higher drop rates in Q2 and Q3 over the three-year period.
 
-         RJio experienced a 99% call drop rate anomaly in Himachal Pradesh during a 2021 month, requiring further investigation due to limited data. Delhi (October 2021, 0.3%) and Chhattisgarh (February 2021, 0.75%) had the lowest drop rates.
+2. RJio experienced a 99% call drop rate anomaly in Himachal Pradesh during a 2021 month, requiring further investigation due to limited data. Delhi (October 2021, 0.3%) and Chhattisgarh (February 2021, 0.75%) had the lowest drop rates.
 
  
 
-- ### Average Rating:
+### Average Rating:
 
-    #### Overall
-        Overall highest average customer rating is achieved by VI with 4.3/5 and the lowest average customer rating goes to MTNL with 2.51/5.
+#### Overall
+1. Overall highest average customer rating is achieved by VI with 4.3/5 and the lowest average customer rating goes to MTNL with 2.51/5.
+2. Statewise, Chhattisgarh possess the highest average customer rating with 4.86/5, followed by Madhya Pradesh with 4.72/5 & Kerala with 4.64/5.
 
-        Statewise, Chhattisgarh possess the highest average customer rating with 4.86/5, followed by Madhya Pradesh with 4.72/5 & Kerala with 4.64/5.
+#### RJio
+1. For RJio, Chhattisgarh consistently excelled with average ratings above 4.5/5 from 2021-2023. 
 
-    #### RJio
-        For RJio, Chhattisgarh consistently excelled with average ratings above 4.5/5 from 2021-2023. 
+2. Karnataka maintained a strong performance above 4/5. Andhra Pradesh declined
+significantly, from 2.93 to 1.5. Arunachal Pradesh showed the most dramatic  
+improvement, rising from 1 to 5.
 
-        Karnataka maintained a strong performance above 4/5. Andhra Pradesh declined
-        significantly, from 2.93 to 1.5. Arunachal Pradesh showed the most dramatic  
-        improvement, rising from 1 to 5.
+#### Airtel
+1. Airtel's peak performance was in August 2022 (4.8/5), followed by February 2023 (4.72/5). Ratings declined since June 2023 (4.39/5). 
 
-    #### Airtel
-        Airtel's peak performance was in August 2022 (4.8/5), followed by February 2023 (4.72/5). Ratings declined since June 2023 (4.39/5). 
+2. Madhya Pradesh led in 2022 (5/5), while Jharkhand topped in 2023 (4.78/5).
 
-        Madhya Pradesh led in 2022 (5/5), while Jharkhand topped in 2023 (4.78/5).
 
+##
 ![Customers](Plots/Average%20customer%20ratings%20for%20call%20quality%20for%20different%20states%20from%202021%20till%202024.png)
 
 ![Customer Satisfaction](Plots/Overall%20call%20drop%20percentage%20for%20each%20operator.png)
