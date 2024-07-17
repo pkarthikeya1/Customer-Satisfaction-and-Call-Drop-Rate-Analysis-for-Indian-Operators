@@ -3,7 +3,7 @@
 
 
 
-## Summary of Insights from Exploratory Analysis
+## Summary of Insights
 
 ### Call Drop Rate:
 
