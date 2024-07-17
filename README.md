@@ -8,6 +8,11 @@
 ### Call Drop Rate:
 - Overall call drop rate % has improved from 2021 to 2023, highest being in 2021 and lowest being in 2023, with MTNL bearing the highest, 26.76% of its calls have dropped and lowest call drops are with the operator VI at 6.68%.
 
+- Further, out of three years from 2021-2023, RJio operator contains 37.66% in Aug 2021 call drop rate, followed by May 2021, the lowest is in Nov 2023 with 1.21% call drop rate. The call drop rates are high in the 2nd quarter and 3rd quarter for RJio.This pattern is seen for three years for RJio.
+- 
+
+ 
+
 ### Average Rating:
 - Overall highest average customer rating is achieved by VI with 4.3/5 and the lowest average customer rating goes to MTNL with 2.51/5.
 
