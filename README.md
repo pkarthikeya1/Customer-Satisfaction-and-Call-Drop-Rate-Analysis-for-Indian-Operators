@@ -16,7 +16,7 @@ Call drop rates decreased from 2021 to 2023. MTNL had the highest rate (26.76%),
 
 2. RJio experienced a 99% call drop rate anomaly in Himachal Pradesh during 2021 from May, requiring further investigation due to limited data. Delhi (October 2021, 0.3%) and Chhattisgarh (February 2021, 0.75%) had the lowest drop rates.
 
-### Airtel
+#### Airtel
 1. Uttarakhand in 2021 recorded the highest call drop % with 35, but it picked tremendously from then in the next two years with <1% drop rate.
 
 2. Apart from Uttarakhand which had both highest and lowest call drop rates, Kerala had the second lowest overall in three years with 0.67% in 2021. 
