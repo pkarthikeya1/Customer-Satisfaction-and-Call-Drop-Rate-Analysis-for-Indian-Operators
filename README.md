@@ -42,7 +42,8 @@ Call drop rates decreased from 2021 to 2023. MTNL had the highest rate (26.76%),
 2. Karnataka maintained a strong performance above 4/5. Andhra Pradesh declined significantly, from 2.93 to 1.5. Arunachal Pradesh showed the most dramatic improvement, rising from 1 to 5.
 
 #### Airtel
-1. Airtel's peak performance was in August 2022 (4.8/5), followed by February 2023 (4.72/5). Ratings declined since June 2023 (4.39/5). 
+1. Airtel's peak performance was in August 2022 (4.8/5), followed by February 2023 (4.72/5). Ratings declined since June 2023 (4.39/5).
+
 ![Airtel average ratings across years](Plots/Airtel%20average%20rating%20across%20years.png)
 
 2. Madhya Pradesh led in 2022 (5/5), while Jharkhand topped in 2023 (4.78/5).
