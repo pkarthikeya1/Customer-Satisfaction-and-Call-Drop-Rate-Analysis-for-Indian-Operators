@@ -36,6 +36,11 @@ improvement, rising from 1 to 5.
 
 2. Madhya Pradesh led in 2022 (5/5), while Jharkhand topped in 2023 (4.78/5).
 
+## Recommendations:
+ ### RJio : 
+ 1. Investigate the anamoly of high call drop rates in Himachal Pradesh, whether there is an issue with the network/congestion or is there any natural calamity happened which resulted in destruction of infrastructure. To further narrow down, should have geodecoding that can result in area/district specific call drop rates.
+ 2. To get to the in detailed picture and more clarity, there should be more effort in collecting the feedback with as 70% of the feedback corresponds to only 2021.
+ 3. Further stregthen the network in Chhattrisgarh and Karnataka and not to lose to the competition. Also, understand how these regions are getting very good ratings, meet with the operations team to use the case study for other states
 
 ##
 ![Customers](Plots/Average%20customer%20ratings%20for%20call%20quality%20for%20different%20states%20from%202021%20till%202024.png)
