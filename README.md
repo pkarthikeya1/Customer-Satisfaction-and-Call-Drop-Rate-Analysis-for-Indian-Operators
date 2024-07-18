@@ -1,4 +1,4 @@
-# Customer Satisfaction and Call Drop Rate Analysis & Prediction for Indian Telecom Operators
+# Customer Satisfaction and Call Drop Rate Analysis for Indian Telecom Operators
 
 
 
