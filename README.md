@@ -35,6 +35,7 @@ Call drop rates decreased from 2021 to 2023. MTNL had the highest rate (26.76%),
 #### RJio
 1. For RJio, Chhattisgarh consistently excelled with average ratings above 4.5/5 from 2021-2023. 
 
+
 ![Chattisgarh](Plots/RJio%20Average%20Rating%20for%20Chhattisgarh.png)
 
 
