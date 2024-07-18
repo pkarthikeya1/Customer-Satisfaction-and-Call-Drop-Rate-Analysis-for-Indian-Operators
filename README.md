@@ -1,7 +1,10 @@
 # Customer Satisfaction and Call Drop Rate Analysis for Indian Telecom Operators
 
 
+##
+![Customers](Plots/Average%20customer%20ratings%20for%20call%20quality%20for%20different%20states%20from%202021%20till%202024.png)
 
+![Customer Satisfaction](Plots/Overall%20call%20drop%20percentage%20for%20each%20operator.png)
 
 ## Summary of Insights
 
@@ -54,10 +57,7 @@ Call drop rates decreased from 2021 to 2023. MTNL had the highest rate (26.76%),
 
 2. Analyze Madhya Pradesh's and Uttarakhand Strategy: Study the operational team’s strategy in Madhya Pradesh to identify successful practices.
 
-##
-![Customers](Plots/Average%20customer%20ratings%20for%20call%20quality%20for%20different%20states%20from%202021%20till%202024.png)
 
-![Customer Satisfaction](Plots/Overall%20call%20drop%20percentage%20for%20each%20operator.png)
 
 
 
